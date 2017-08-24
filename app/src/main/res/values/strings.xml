@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Mvp Sample</string>
+    <string name="open_weather_map_appid">6fceb3679c834d3b2d02142af4e72dfd</string>
+</resources>
